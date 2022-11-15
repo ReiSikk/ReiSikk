@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ReiSikk
 - 👀 I’m interested in Web Design 
-- 🌱 I’m currently learning Javascript and soon React
+- 🌱 I’m currently learning React.js
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sikkrei@gmail.com
 
