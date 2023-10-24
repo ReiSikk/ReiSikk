@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ReiSikk
-- 👀 I’m interested in Web Design and Frontend
-- 🌱 I’m currently learning React.js, Next.Js
+- 👀 I’m most interested in Frontend Dev and Web Design but currently studying to be proficient with full stack technologies. 
+- 🌱 I’m currently learning React.js, Next.Js, Nest.js, Node.js, TypeScript and much more. 
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sikkrei@gmail.com
+- 💞️ I’m looking for opportunities in Frontend/Web Design or Full Stack
+- 📫 How to reach me: sikkrei@gmail.com
 
 <!---
 ReiSikk/ReiSikk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
