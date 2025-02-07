@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReiSikk
-- 👀 I’m most interested in Frontend Dev and Web Design but currently studying to be proficient with full stack technologies. 
-- 🌱 I’m currently learning React.js, Next.Js, Nest.js, Node.js, TypeScript and much more. 
+- 👀 Recent graduate of Web Development BA from Copenhagen Business Academy. 
+- 🌱 Learning full-stack technologies. Intersted in Digital Design and the intersection of design and technology. 
 
 - 💞️ I’m looking for opportunities in Frontend/Web Design or Full Stack
 - 📫 How to reach me: sikkrei@gmail.com
